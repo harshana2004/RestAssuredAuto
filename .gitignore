@@ -1,0 +1,43 @@
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Maven
+
+target/
+
+# Allure
+
+allure-results/
+allure-report/
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# Eclipse
+
+.classpath
+.project
+.settings/
+
+# VS Code
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Java
+
+*.class
